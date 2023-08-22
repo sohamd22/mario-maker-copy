@@ -1,0 +1,23 @@
+
+In the worlds menu, you will see many options.
+
+To create a new world, click on the new world button.
+In the new world window, you can click on any area to add
+your own tile/item to the world (click multiple times on the
+same area to cycle to the next tile/item).
+Press the Arrow Buttons to move between the halves of your
+world.
+Once you are happy with your world, click on the Save Button
+to save and close the window with the Exit Button.
+You can also update and delete the world after making it.
+
+The world will now appear in the worlds menu where you can play it.
+Use the arrow keys to move around and press space to jump.
+Jumping on top of an enemy will kill the enemy.
+If you get hit by an enemy, your lives will decrease and 
+you will be protected for a few seconds.
+When your lives are 0, you will be greeted with 'Game Over'.
+You can get extra lives by collecting hearts and collect coins to
+increase your score.
+Once you reach the flag, you have finished the level and 
+your score will increase by 5. Your statistics will also be displayed. 

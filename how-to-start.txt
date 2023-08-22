@@ -1,0 +1,19 @@
+
+Start off by signing up and logging in
+(You can always delete your account).
+
+If you don't want to sign in, you can 'Play As Guest',
+the guest account has a premade playable world that cannot be 
+updated or deleted.
+
+Once you've logged in, you will be presented with a worlds
+menu where you can create your own worlds by clicking
+on the 'New World' button.
+
+In the new world window, you can modify the world to your liking
+and then save the world to make it playable.
+Click the exit button after you have are happy with your world.
+You can also update and delete the world after making it.
+
+The world will now appear in the worlds menu where you can play it.
+All the world statistics are saved so you can get new highscores.
