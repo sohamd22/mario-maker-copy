@@ -14,4 +14,6 @@ The project was coded by me and my friend but the idea is NOT ours and was taken
 - Run the `table_init.py` file to initialize the tables
 
 
-- Run the `login.py` to start playing
+- Run the `login.py` file to start playing
+
+- Have fun
